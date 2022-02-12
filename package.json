@@ -41,7 +41,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
     "jest-enzyme": "^7.0.1",
